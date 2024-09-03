@@ -31,7 +31,8 @@
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="45" height="45"/> </a>&nbsp; 
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/> </a> &nbsp;
 <a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=md&theme=light" alt="markdown" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="45" height="45"/> </a>&nbsp; 
+<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="45" height="45"/> </a>&nbsp;
+<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" width="45" height="45"/> </a>&nbsp; 
 </p>
 <br>
 
