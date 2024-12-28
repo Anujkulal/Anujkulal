@@ -1,15 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Anuj Kulal</h1>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <a><img src="https://github-profile-trophy.vercel.app/?username=AnujKulal&theme=radical&no-frame=false&no-bg=false&margin-w=4"/></a>
-</p>
-<br>
 
-## 🌐 Connect with me: 
-<p align="left">
-<a href="https://linkedin.com/in/anuj-kulal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj kulal" height="30" width="40" /></a>
+## 🌐 Connect with me: <p align="left"> <a href="https://linkedin.com/in/anuj-kulal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj kulal" height="30" width="40" /></a>
 </p>
 <br>
 
