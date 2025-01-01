@@ -8,24 +8,24 @@
 
 # 💻 Tech Stack and Tools:
 <p align="center"> 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/> </a> &nbsp;
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=md&theme=light" alt="markdown" width="45" height="45"/> </a>&nbsp; 
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="45" height="45"/> </a>&nbsp;
-<a href=" " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="gimp" width="45" height="45"/> </a> &nbsp;
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=md&theme=light" alt="markdown" width="45" height="45"/> </a>&nbsp; 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="45" height="45"/> </a>&nbsp;
+<a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" width="45" height="45"/> </a>&nbsp; 
 </p>
 <br>
 
