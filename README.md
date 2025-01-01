@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack and Tools:
 <p align="center"> 
-<a href="" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="45" height="45"/> </a>&nbsp; 
+<a rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="45" height="45"/> </a>&nbsp; 
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45"/> </a>&nbsp; 
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45"/> </a>&nbsp; 
 <a href="#" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45"/> </a>&nbsp; 
