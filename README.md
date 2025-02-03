@@ -42,11 +42,17 @@
 </a>&nbsp;
 
 ### 🗄️ Backend & Databases:
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
+</a>&nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50"/>
 </a>&nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/>
+</a>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
 </a>&nbsp;
 
 ### 🛠️ Tools & Platforms:
