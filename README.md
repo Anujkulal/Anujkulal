@@ -7,7 +7,6 @@
 ---
 
 ## 💻 Tech Stack & Tools:
-### 🔗 Programming Languages:  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
 </a>&nbsp;
@@ -20,8 +19,6 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
 </a>&nbsp;
-
-### 🌐 Frontend Development:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="50" height="50"/>
 </a>&nbsp;
@@ -40,8 +37,6 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" width="50" height="50"/>
 </a>&nbsp;
-
-### 🗄️ Backend & Databases:
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/>
 </a>&nbsp;
@@ -54,8 +49,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
 </a>&nbsp;
-
-### 🛠️ Tools & Platforms:
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
 </a>&nbsp;
@@ -77,16 +70,12 @@
 <a href="https://vite.dev/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50"/>
 </a>&nbsp;
-
-### 🌐 Hosting:
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50"/>
 </a>&nbsp;
 <a href="https://vercel.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
 </a>&nbsp;
-
-### 🎨 Design & Documentation:
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="GIMP" width="50" height="50"/>
 </a>&nbsp;
@@ -98,6 +87,15 @@
 </a>&nbsp;
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="50" height="50"/>
+</a>&nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
+</a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
+</a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
 </a>&nbsp;
 
 ---
