@@ -7,6 +7,9 @@
 ---
 
 ## 💻 Tech Stack & Tools:
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="50" height="50"/>
+</a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50"/>
 </a>&nbsp;
