@@ -83,7 +83,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50"/>
 </a>&nbsp;
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="GIMP" width="50" height="50"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gimp" alt="GIMP" width="50" height="50"/>
 </a>&nbsp;
 <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=obsidian" alt="Obsidian" width="50" height="50"/>
