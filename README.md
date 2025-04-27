@@ -16,6 +16,12 @@
 <a href="https://zustand.docs.pmnd.rs/getting-started/introduction" target="_blank" rel="noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" alt="Zustand" width="50" height="50"/>
 </a>&nbsp;
+<a href="https://expo.dev" target="_blank" rel="noreferrer">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" alt="Expo" width="50" height="50"/>
+</a>&nbsp;
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" alt="ReactNative" width="50" height="50"/>
+</a>&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
 </a>&nbsp;
